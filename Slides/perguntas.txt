@@ -1,0 +1,60 @@
+PERGUNTAS:
+
+
+Qual é a diferença entre classes e IDs no CSS?
+
+O atributo Id especifica uma identificação única para o elemento HTML.  Por questões de boas práticas, não deve ser reutilizado e nem conter espaços em seu nome, pois o navegador irá identificar o espaço como parte dele, já que os elementos não podem ter mais de um Id.
+O atributo global class especifica uma ou mais classes para o elemento HTML. Esse atributo pode ser reutilizado, ajudando a pessoa desenvolvedora a não repetir códigos, além de permitir o uso de diferentes classes simultaneamente.
+Qual tecnologia utilizada para validar o valor digitado em um input? (Exemplo: Verificar se um CPF é válido)
+
+
+HTML
+CSS
+Javascript
+Bootstrap
+
+Qual a tecnologia utilizada para programar os estilos do site?
+
+HTML
+CSS
+Javascript
+Bootstrap
+
+Qual tecnologia é o mais famoso Framework para criação de interfaces em projetos frontend?
+
+
+HTML
+CSS
+Javascript
+Bootstrap
+
+Qual tag deve ser utilizada para o título principal do conteúdo visível de uma página (NÃO da aba do navegador)?
+
+
+p
+br
+form
+h1
+title
+
+Qual código abaixo não corresponde a uma função em Javascript?
+
+
+function {}
+() => {}
+<function></function>
+
+RESPOSTAS
+
+1- id e classes diferenças: O atributo Id especifica uma identificação única para o elemento HTML.  Por questões de boas práticas, não deve ser reutilizado e nem conter espaços em seu nome, pois o navegador irá identificar o espaço como parte dele, já que os elementos não podem ter mais de um Id.
+O atributo global class especifica uma ou mais classes para o elemento HTML. Esse atributo pode ser reutilizado, ajudando a pessoa desenvolvedora a não repetir códigos, além de permitir o uso de diferentes classes simultaneamente.
+
+2- JS
+
+3- CSS
+
+4- Bootstrap
+
+5- H1
+
+6- <function></function>
