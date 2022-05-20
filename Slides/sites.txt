@@ -9,3 +9,6 @@ https://unicode-table.com/pt/
 
 https://fonts.google.com/
 FONTES
+
+https://www.treinaweb.com.br/blog/javascript-metodos-de-arrays-que-voce-precisa-conhecer
+METODOS DE ARRAY
